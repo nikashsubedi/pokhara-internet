@@ -7,7 +7,8 @@ import Aboutus from './components/Aboutus'
 import Contact from './components/Contact'
 import Login from './components/Login'
 import Navbar from './components/Navbar'
-import Register from './components/register'
+import Register from './components/Register'
+import RegistrationForm from './components/RegistrationForm'
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
    <Route path='/login' element={<Login/>}></Route>
    <Route path='/Navbar' element={<Navbar/> }></Route>
    <Route path='/register' element={<Register/>}></Route>
+   <Route path='/registrationform' element={<RegistrationForm/>}></Route>
    
 
    </Routes>
