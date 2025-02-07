@@ -56,7 +56,7 @@ const RegistrationForm = () => {
         <div>
           <label className="block mb-3 text-sm font-medium text-cyan-700">First Name</label>
           <div className="relative">
-            <input type="text" placeholder="John" className="w-full px-4 py-3 border-2 border-cyan-500 rounded-xl bg-transparent 
+            <input type="text" placeholder="Nikash" className="w-full px-4 py-3 border-2 border-cyan-500 rounded-xl bg-transparent 
                       focus:outline-none focus:ring-2 focus:ring-cyan-500 pl-10" />
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-cyan-500 absolute left-3 top-1/2 transform -translate-y-1/2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
@@ -66,7 +66,7 @@ const RegistrationForm = () => {
         <div>
           <label className="block mb-3 text-sm font-medium text-cyan-700">Last Name</label>
           <div className="relative">
-            <input type="text" placeholder="Doe" className="w-full px-4 py-3 border-2 border-cyan-500 rounded-xl bg-transparent 
+            <input type="text" placeholder="Subedi" className="w-full px-4 py-3 border-2 border-cyan-500 rounded-xl bg-transparent 
                       focus:outline-none focus:ring-2 focus:ring-cyan-500 pl-10" />
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-cyan-500 absolute left-3 top-1/2 transform -translate-y-1/2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
@@ -76,7 +76,7 @@ const RegistrationForm = () => {
         <div className="md:col-span-2">
           <label className="block mb-3 text-sm font-medium text-cyan-700">Email Address</label>
           <div className="relative">
-            <input type="email" placeholder="john.doe@example.com" className="w-full px-4 py-3 border-2 border-cyan-500 rounded-xl bg-transparent 
+            <input type="email" placeholder="nikash.subedi@gmail.com" className="w-full px-4 py-3 border-2 border-cyan-500 rounded-xl bg-transparent 
                       focus:outline-none focus:ring-2 focus:ring-cyan-500 pl-10" />
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-cyan-500 absolute left-3 top-1/2 transform -translate-y-1/2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
